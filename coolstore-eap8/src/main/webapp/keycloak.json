@@ -1,0 +1,8 @@
+{
+  "realm": "eap",
+  "auth-server-url": "https://rhbk-rhbk.apps.cluster-jbz4g.jbz4g.sandbox1540.opentlc.com/",
+  "ssl-required": "external",
+  "resource": "eap-app",
+  "public-client": true,
+  "confidential-port": 0
+}
